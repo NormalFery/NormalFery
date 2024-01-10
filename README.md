@@ -1,7 +1,7 @@
 # NormalFery
 ## Hi there!
 
-I'm Fery, also known in the internet as "NormalFery" in other places, finally in github. I'm usually seen working with stuff in [PridePack](https://github.com/Pridecraft-Studios/pridepack), from [PrideCraft Studios](https://github.com/Pridecraft-Studios)
+I'm Fery, also known in the internet as "NormalFery" in other places, finally in github. I'm usually seen working with stuff on both [PridePack](https://github.com/Pridecraft-Studios/pridepack) and [PrideGUI](https://github.com/PrideCraft-Studios/PrideGUI) currently!, from [PrideCraft Studios!](https://github.com/Pridecraft-Studios)
 
 Although I don't have any repositories for myself, there is stuff I may work on privately.
 
@@ -12,9 +12,10 @@ I also have a barely used, [Youtube Channel](https://www.youtube.com/channel/UCI
 
 ## Do you do anything more aside from Pridepack?
 
-No!
+Yes! (Kind of)
 
-at least not yet :p 
+I'm working on [PrideGUI](https://github.com/PrideCraft-Studios/PrideGUI) currently!
+It's not gonna be finished soon tho
 
 <!---
 NormalFery/NormalFery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
